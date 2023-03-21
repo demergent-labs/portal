@@ -305,6 +305,14 @@ const config = {
                   label: "Rust Docs",
                   href: "/docs/current/developer-docs/backend/rust/",
                 },
+                {
+                  label: "Azle (TypeScript) Docs",
+                  href: "https://demergent-labs.github.io/azle/",
+                },
+                {
+                  label: "Kybra (Python) Docs",
+                  href: "https://demergent-labs.github.io/kybra/",
+                },
                 menuDivider("Tools"),
 
                 { label: "Developer Tools", to: "/tooling" },
